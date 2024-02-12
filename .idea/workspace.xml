@@ -10,14 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="221e0783-e123-4b30-bcd8-0998e9002bf5" name="Changes" comment="Sign in - Sign up - Forgot Password">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/register.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/signin-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/signup-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/registration.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +194,7 @@
       <workItem from="1707378426496" duration="3169000" />
       <workItem from="1707601178411" duration="3028000" />
       <workItem from="1707635384436" duration="15705000" />
-      <workItem from="1707690185481" duration="14058000" />
+      <workItem from="1707690185481" duration="14907000" />
     </task>
     <task id="LOCAL-00001" summary="Sign in - Sign up - Forgot Password">
       <option name="closed" value="true" />
@@ -211,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707703702819</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sign in - Sign up - Forgot Password">
+      <option name="closed" value="true" />
+      <created>1707704911538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707704911538</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
