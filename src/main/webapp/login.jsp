@@ -24,7 +24,7 @@
 				<div class="signin-content">
 					<div class="signin-image">
 						<figure>
-							<img src="images/signin-image.jpg" alt="sing up image">
+							<img src="images/login.jpg" alt="sing up image">
 						</figure>
 						<a href="registration.jsp" class="signup-image-link">Create an
 							account</a>
@@ -53,17 +53,6 @@
 									class="form-submit" value="Log in" />
 							</div>
 						</form>
-						<div class="social-login">
-							<span class="social-label">Or login with</span>
-							<ul class="socials">
-								<li><a href="#"><i
-										class="display-flex-center zmdi zmdi-facebook"></i></a></li>
-								<li><a href="#"><i
-										class="display-flex-center zmdi zmdi-twitter"></i></a></li>
-								<li><a href="#"><i
-										class="display-flex-center zmdi zmdi-google"></i></a></li>
-							</ul>
-						</div>
 					</div>
 				</div>
 			</div>
